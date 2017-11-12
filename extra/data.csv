@@ -1,0 +1,15 @@
+17,01.jpg, 0.50, 0.50, 0.70
+13,02.jpg, 0.40, 0.60, 0.75
+ 5,03.jpg, 0.50, 0.50, 0.95
+23,04.jpg, 0.42, 0.50, 0.80
+16,05.jpg, 0.30, 0.50, 0.90
+25,06.jpg, 0.40, 0.15, 0.50
+17,06.jpg, 0.35, 0.53, 0.48
+
+# This one doesn't match the training sign shapes, since this is round and
+# the training 'pedestrian' signs are triangular.
+# 27,06.jpg, 0.35, 0.80, 0.40
+
+39,07.jpg, 0.50, 0.50, 0.80
+12,08.jpg, 0.25, 0.50, 0.80
+ 4,08.jpg, 0.70, 0.50, 0.70
